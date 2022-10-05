@@ -1,0 +1,15 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/nick/Turing/5mod/slyce/be_slyce/app/controllers/application_controller.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1664986769
+  }
+}
